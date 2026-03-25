@@ -1,5 +1,4 @@
-# Global-Superstore-Sales-Analysis
-📊 Sales Dashboard Analysis
+ 📊 Global-Superstore-Sales-Analysis
 
 📌 Overview
 This project is a Power BI dashboard that analyzes sales, profit, and business performance using a retail dataset.
